@@ -1,0 +1,14 @@
+
+\sql
+\connect root@localhost
+use odap
+
+
+4.  dir
+5. cd desktop
+6. dir
+7. cd odap
+8. venv\Scripts\activate
+9. set FLASK_APP=main
+10. set FLASK_ENV=development
+11. flask run

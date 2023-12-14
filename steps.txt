@@ -1,0 +1,8 @@
+1. mkdir odap
+2. cd odap
+3. py -3 -m venv venv
+4. venv\Scripts\activate
+5. pip install -r req.txt
+6. set FLASK_APP=main
+7. set FLASK_ENV=development
+8. flask run
